@@ -14,7 +14,7 @@
 🏠 I'm from Kathmandu, Nepal 🇳🇵 <br/>
 👨‍💻 I’m currently working as an intern at [Compliance Quest](https://www.compliancequest.com/).<br/>
 🌱 I’m trying to improve my coding skills 🤦‍♂.<br/>
-🔭 I'm currently leaning [Salesforce Development](https://trailhead.salesforce.com/career-path/developer?gclid=CjwKCAiAxJSPBhAoEiwAeO_fP5Z1FUhUmIXbx4Vq5obuDmgJDu7j6IbklFyejPvTDS0SL6fzCSQslxoCjfkQAvD_BwE&gclsrc=aw.ds).<br/>
+🔭 I'm currently learning [Salesforce Development](https://trailhead.salesforce.com/career-path/developer?gclid=CjwKCAiAxJSPBhAoEiwAeO_fP5Z1FUhUmIXbx4Vq5obuDmgJDu7j6IbklFyejPvTDS0SL6fzCSQslxoCjfkQAvD_BwE&gclsrc=aw.ds).<br/>
 
 # Languages and Technologies
 
