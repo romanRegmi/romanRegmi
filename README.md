@@ -16,8 +16,6 @@
 🌱 I’m trying to improve my coding skills 🤦‍♂.<br/>
 🔭 I'm currently leaning [Salesforce Development](https://trailhead.salesforce.com/career-path/developer?gclid=CjwKCAiAxJSPBhAoEiwAeO_fP5Z1FUhUmIXbx4Vq5obuDmgJDu7j6IbklFyejPvTDS0SL6fzCSQslxoCjfkQAvD_BwE&gclsrc=aw.ds).<br/>
 
-<br>
-
 # Languages and Technologies
 
 ### 1. Programming Languages
