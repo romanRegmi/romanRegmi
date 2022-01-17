@@ -41,7 +41,7 @@
 <img align="left" alt="mongoDb" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 <br>
 
-### 4. Cloud Servers
+### 4. Cloud Technologies
 
 <img align="left" alt="Heroku" width="26px" height="26px" src="https://img.icons8.com/color/48/000000/heroku.png"/>
 <img align="left" alt="salesForce" width="26px" height="26px" src="https://img.icons8.com/color/48/000000/salesforce.png"/>
