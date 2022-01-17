@@ -20,7 +20,7 @@
 
 # Languages and Technologies
 
-## 1. Programming Languages
+### 1. Programming Languages
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"/>
 
@@ -28,27 +28,27 @@
 
 <br>
 
-## 2. Backend Technologies
+### 2. Backend Technologies
 
 <img align="left" alt="flask" width="26px" height="26px" src="https://img.icons8.com/ios/50/000000/flask.png"/>
 <img align="left" alt="django" width="26px" height="26px" src="https://img.icons8.com/color/48/000000/django.png"/>
 <br>
 
-## 3. DataBase Technologies
+### 3. DataBase Technologies
 
 <img align="left" alt="SQL" width="26px" height="26px" src="https://img.icons8.com/external-others-phat-plus/64/000000/external-connection-browser-and-interface-blue-others-phat-plus-6.png"/>
 
 <img align="left" alt="mongoDb" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 <br>
 
-## 4. Cloud Servers
+### 4. Cloud Servers
 
 <img align="left" alt="Heroku" width="26px" height="26px" src="https://img.icons8.com/color/48/000000/heroku.png"/>
 <img align="left" alt="salesForce" width="26px" height="26px" src="https://img.icons8.com/color/48/000000/salesforce.png"/>
 
 <br>
 
-## 5. Other tools
+### 5. Other tools
 
 <img align="left" alt="Terminal" width="26px" height="26px" src="https://img.icons8.com/ios-filled/50/000000/github.png"/>
 
