@@ -1,4 +1,4 @@
-<img alt="GIF" src="gifs/trailblazer.gif"/>
+![logo](https://github.dev/romanRegmi/romanRegmi/gifs/salesforce-background.jpg)
 <h1 align="center">Hi 👋, I'm Roman Regmi</h1>
 <h3 align="center">A passionate Salesforce Developer.</h3>
 
