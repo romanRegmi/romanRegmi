@@ -1,4 +1,4 @@
-![logo](https://github.dev/romanRegmi/romanRegmi/gifs/salesforce-background.jpg)
+![logo](https://github.com/romanRegmi/romanRegmi/blob/main/gifs/salesforce.jpg)
 <h1 align="center">Hi 👋, I'm Roman Regmi</h1>
 <h3 align="center">A passionate Salesforce Developer.</h3>
 
