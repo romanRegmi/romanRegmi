@@ -1,4 +1,4 @@
-![logo](https://upload.wikimedia.org/wikipedia/commons/f/f9/Salesforce.com_logo.svg)
+![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 <h1 align="center">Hi 👋, I'm Roman Regmi</h1>
 <h3 align="center">A passionate Salesforce Developer.</h3>
 
@@ -18,23 +18,10 @@
 </p>
 
 ## Languages and Technologies
-<p align="left"> 
-
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="58" height="58"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="58" height="58"/> </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="58" height="58"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="58" height="58"/> </a><a sref="https://www.salesforce.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-ar21.svg" alt="Salesforce"/></a><a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="58" height="58"/> </a><a> <img align="left" alt="Visual Studio Code" width="58" height="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-</a><a> <img align="left" alt="Terminal" width="58" height="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> </a>
+<p align="left">
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="58" height="58"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="58" height="58"/> </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="58" height="58"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="58" height="58"/> </a><a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="58" height="58"/></a>
+<a href="https://www.salesforce.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-ar21.svg" alt="salesforce"/></a>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romanRegmi&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=romanRegmi&layout=compact&theme=radical)    [![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=romanRegmi&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=romanRegmi)
