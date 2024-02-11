@@ -12,7 +12,7 @@
 
 ## Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/roman-r-100544204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roman-r-100544204" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/romanRegmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roman-r-100544204" height="30" width="40" /></a>
 <a href="https://medium.com/@developerregmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@developerregmi" height="30" width="40" /></a>
 </p>
 
