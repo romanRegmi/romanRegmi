@@ -7,10 +7,8 @@ Hi👋, My name is Roman Regmi, and I am a Salesforce Developer based in Kathman
 ## 🌟 **About Me**
 
 ### 💼 Professional
-
-👨‍💻 I’m currently working as a Salesforce Developer at [Compliance Quest](https://www.compliancequest.com/).<br/>
-🔭 I'm actively expanding my Salesforce Development expertise through continuous learning on Trailhead and practical application.<br/>
-💬 Passionate about Salesforce? Let's connect!
+* I’m currently working as a Salesforce Developer at [Compliance Quest](https://www.compliancequest.com/).<br/>
+* I'm actively expanding my Salesforce Development expertise through continuous learning on Trailhead and practical application.<br/>
 
 ### 🏆 Responsibilities
 
