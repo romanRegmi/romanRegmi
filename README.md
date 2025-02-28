@@ -38,11 +38,9 @@ In my role as a Salesforce Developer, I am responsible for:
     -   JSON | XML  
     -   JavaScript | HTML | CSS
     -   Git | Visual Studio Code | Salesforce CLI
-    -   Slack | JIRA | Trello
-
+    -   Slack | JIRA | ClickUp
 
 ---
-
 
 ## 🎓 **Certifications**
 
