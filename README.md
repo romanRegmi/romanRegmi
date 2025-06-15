@@ -1,6 +1,6 @@
-# 💻 **Welcome to My GitHub!**
+# 💻 **Hi👋!**
 
-Hi👋, my name is Roman Regmi, and I am a Salesforce Developer based in Kathmandu, Nepal, with three years’ experience building and customizing solutions on the Salesforce platform. I specialize in Apex, Flows, the Salesforce Platform, and Lightning Web Components, delivering optimized workflows and integrated third-party systems to enhance business efficiency.
+I am Roman Regmi, a Salesforce Developer based in Kathmandu, Nepal, with three years of experience building and customizing solutions on the Salesforce platform. I specialize in Apex, Flows, the Salesforce Platform, and Lightning Web Components, delivering optimized workflows and integrated third-party systems to enhance business efficiency.
 
 ---
 
