@@ -36,7 +36,8 @@ In my role as a Salesforce Developer, I am responsible for:
 
 -   **Python Development:**
     -   Python | MySQL | MongoDB | Streamlit
-    -   Pandas | Computer Vision | NLP
+    -   Pandas | Plotly | Computer Vision | NLP
+    -   Scrapy | Selenium
 
 -   **Other Tools & Languages:**
     -   JSON | XML  
