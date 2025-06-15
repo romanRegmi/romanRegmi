@@ -1,6 +1,6 @@
 # 💻 **Welcome to My GitHub!**
 
-Hi👋, My name is Roman Regmi, and I am a Salesforce Developer based in Kathmandu, Nepal with 3 years of experience building and customizing solutions on the Salesforce platform. Skilled in Apex, Flows, SF Platform and Lightning Web Components, I’ve delivered scalable applications, optimized workflows, and integrated third-party systems to drive business efficiency. Passionate about solving complex problems and enhancing user experiences through clean, maintainable code.
+Hi👋, my name is Roman Regmi, and I am a Salesforce Developer based in Kathmandu, Nepal, with three years’ experience building and customizing solutions on the Salesforce platform. I specialize in Apex, Flows, the Salesforce Platform, and Lightning Web Components, delivering optimized workflows and integrated third-party systems to enhance business efficiency.
 
 ---
 
@@ -8,15 +8,16 @@ Hi👋, My name is Roman Regmi, and I am a Salesforce Developer based in Kathman
 
 ### 💼 Professional
 * I’m currently working as a Salesforce Developer at [Compliance Quest](https://www.compliancequest.com/).<br/>
-* I'm actively expanding my Salesforce Development expertise through continuous learning on Trailhead and practical application.<br/>
+* I worked as a Salesforce Consultant at [Docsumo](https://www.docsumo.com/).</br>
+* I interned as an ML Engineer at [Leapfrog Technology](https://www.lftechnology.com/).<br/>
 
 ### 🏆 Responsibilities
 
 In my role as a Salesforce Developer, I am responsible for:
 
 * Building intuitive **Lightning Web Components (LWC)**.
-* Customizing Salesforce objects, flows, and triggers.
-* Crafting robust integrations using **Apex**, **REST/SOAP APIs**, and **middleware** tools.
+* Customizing Salesforce objects, layouts, and flexipages.
+* Crafting robust integrations using **Apex** and **REST APIs**.
 * Automating processes with **Flows** and **Apex**.
 * Creating seamless user experiences in **Experience Cloud (Communities)**.
 
@@ -27,12 +28,15 @@ In my role as a Salesforce Developer, I am responsible for:
     -   Apex | Aura | SOQL | SOSL
     -   Lightning Web Components (LWC) | Aura
     -   Salesforce Flows | Validation Rules | Custom Objects
-    -   Experience Cloud (Community Builder, Self-Registration)
+    -   Experience Cloud
 
 -   **Integration & Automation:**
     -   REST APIs | SOAP APIs | Postman
     -   Data Loader | Workbench | Dataloader.io
-    -   CI/CD with Gearset | Jenkins | GitHub Actions
+
+-   **Python Development:**
+    -   Python | MySQL | MongoDB | Streamlit
+    -   Pandas | Computer Vision | NLP
 
 -   **Other Tools & Languages:**
     -   JSON | XML  
