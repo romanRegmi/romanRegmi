@@ -24,26 +24,24 @@ In my role as a Salesforce Developer, I am responsible for:
 ---
 
 ## 🛠 **Languages and Technologies**
--   **Salesforce Development:**
-    -   Apex | Aura | SOQL | SOSL
-    -   Lightning Web Components (LWC) | Aura
-    -   Salesforce Flows | Validation Rules | Custom Objects
-    -   Experience Cloud
+-   **Salesforce Development**
+    -   **Programming Languages** : Apex | JavaScript
+    -   **Framework** : Lightning Web Components (LWC) | Aura
+    -   **Automation Tools** : Salesforce Flows
+    -   **Salesforce Cloud** : Experience Cloud | Service Cloud
 
--   **Integration & Automation:**
-    -   REST APIs | SOAP APIs | Postman
-    -   Data Loader | Workbench | Dataloader.io
+-   **Integration For Salesforce**
+    -   REST APIs | SOAP APIs | GraphQL
+    -   Data Loader | Workbench | Postman
 
 -   **Python Development:**
-    -   Python | MySQL | MongoDB | Streamlit
-    -   Pandas | Plotly | Computer Vision | NLP
-    -   Scrapy | Selenium
+    -   **Web** : FastAPI | Streamlit
+    -   **Data Analysis** : Pandas | Plotly 
+    -   **Web Scraping and Automation** : Scrapy | Selenium
 
--   **Other Tools & Languages:**
-    -   JSON | XML  
-    -   JavaScript | HTML | CSS
-    -   Git | Visual Studio Code | Salesforce CLI
-    -   Slack | JIRA | ClickUp
+-   **Other Tools**
+    -   **IDE & CLI** : Visual Studio Code | Salesforce CLI | Git
+    -   **Communication & Documentation** : Teams | Slack | JIRA | ClickUp  
 
 ---
 
