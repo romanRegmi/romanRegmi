@@ -28,7 +28,7 @@ In my role as a Salesforce Developer, I am responsible for:
     -   **Programming Languages** : Apex | JavaScript
     -   **Framework** : Lightning Web Components (LWC) | Aura
     -   **Automation Tools** : Salesforce Flows
-    -   **Salesforce Cloud** : Experience Cloud | Service Cloud
+    -   **Salesforce Cloud** : Experience Cloud | Data Cloud | Agentforce
 
 -   **Integration For Salesforce**
     -   REST APIs | SOAP APIs | GraphQL
