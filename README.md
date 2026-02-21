@@ -53,6 +53,7 @@ In my role as a Salesforce Developer, I am responsible for:
 ---
 
 ## ⚡ **Github Stats**
+
  
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=romanRegmi&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=romanRegmi&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<p><img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=romanRegmi&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=romanRegmi&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
