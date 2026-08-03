@@ -13,8 +13,6 @@ I am Roman Regmi, a Salesforce Developer based in Kathmandu, Nepal, with three y
 
 ### 🏆 Responsibilities
 
-In my role as a Salesforce Developer, I am responsible for:
-
 * Building intuitive **Lightning Web Components (LWC)**.
 * Customizing Salesforce objects, layouts, and flexipages.
 * Crafting robust integrations using **Apex** and **REST APIs**.
